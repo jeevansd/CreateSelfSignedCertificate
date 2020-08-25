@@ -1,0 +1,13 @@
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\obj\Debug\netcoreapp3.1\CreateSelfSignedCertificate.csprojAssemblyReference.cache
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\obj\Debug\netcoreapp3.1\CreateSelfSignedCertificate.AssemblyInfoInputs.cache
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\obj\Debug\netcoreapp3.1\CreateSelfSignedCertificate.AssemblyInfo.cs
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\obj\Debug\netcoreapp3.1\CreateSelfSignedCertificate.csproj.CoreCompileInputs.cache
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\bin\Debug\netcoreapp3.1\CreateSelfSignedCertificate.exe
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\bin\Debug\netcoreapp3.1\CreateSelfSignedCertificate.deps.json
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\bin\Debug\netcoreapp3.1\CreateSelfSignedCertificate.runtimeconfig.json
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\bin\Debug\netcoreapp3.1\CreateSelfSignedCertificate.runtimeconfig.dev.json
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\bin\Debug\netcoreapp3.1\CreateSelfSignedCertificate.dll
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\bin\Debug\netcoreapp3.1\CreateSelfSignedCertificate.pdb
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\obj\Debug\netcoreapp3.1\CreateSelfSignedCertificate.dll
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\obj\Debug\netcoreapp3.1\CreateSelfSignedCertificate.pdb
+C:\Users\jeedes\source\repos\CreateSelfSignedCertificate\CreateSelfSignedCertificate\obj\Debug\netcoreapp3.1\CreateSelfSignedCertificate.genruntimeconfig.cache
