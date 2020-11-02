@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wrvBH4tQJJC6wcOkLCGlJeMfsuXijpKM1frB1m3ys4gGpAyA+fMwn7XHZN5v38eo4TYFCIpCZT24MiESIs26jw==",
+  "dgSpecHash": "AL01axlngPEVnqDz3ETu1Jeicl4CeGih9OEXzYkFGyOFvaqEQwYBY1Ir4FM4xvvXJ84v4gRn9WEPH3Peq+R+Ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeedes\\source\\repos\\CreateSelfSignedCertificate\\CreateSelfSignedCertificate\\CreateSelfSignedCertificate.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\jeedes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
-    "C:\\Users\\jeedes\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\jeedes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\jeedes\\source\\repos\\CreateSelfSignedCertificate2\\CreateSelfSignedCertificate\\CreateSelfSignedCertificate.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
